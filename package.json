@@ -1,0 +1,14 @@
+{
+  "name": "fride-vpn-vk-bot",
+  "version": "1.0.0",
+  "description": "FRIDE VPN VK Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "vk-io": "^4.10.1"
+  }
+}
